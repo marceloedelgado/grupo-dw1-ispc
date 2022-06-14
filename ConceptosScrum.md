@@ -5,6 +5,8 @@ Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Mó
  Scrum define cinco ceremonias principales para cumplir con el control de sus procesos, todas con un sentido de ser propio que hace que sean imprescindibles para esta metodología
 
     1. Sprint Planning Meeting
+  SPRINT PLANNING MEETING  
+  (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint
     
     3. Spring Review Meeting
     
