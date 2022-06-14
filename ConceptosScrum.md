@@ -9,5 +9,9 @@ Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Mó
     3. Spring Review Meeting
 
 # Artefactos en SCRUM:
+ En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
+ 
+    3. Incremento (Increment) 
+
 
 # Roles de SCRUM
