@@ -31,8 +31,21 @@ SPRINT RETROSPECTIVE
 
 # Artefactos en SCRUM:
  En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
- 
+
+ 1. Pila del Producto (Product Backlog)
+Es una lista ordenada, que contiene todo lo que podría ser necesario en el producto y es la única fuente de requisitos para hacer cambios en el producto.
+
+El único responsable del Product Backlog es el Product Owner. Es el encargado de ordenar y añadir ítems.
+
+
     3. Incremento (Increment) 
 
 
 # Roles de SCRUM
+
+
+
+
+
+
+
