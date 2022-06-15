@@ -5,9 +5,11 @@ Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Mó
  Scrum define cinco ceremonias principales para cumplir con el control de sus procesos, todas con un sentido de ser propio que hace que sean imprescindibles para esta metodología
 
     1. Sprint Planning Meeting
-
+  SPRINT PLANNING MEETING  
+  (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint
+  
     2. Daily Scrum Meeting
-    
+
     3. Spring Review Meeting
     
     4. Sprint Retrospective Meeting
@@ -31,8 +33,21 @@ SPRINT RETROSPECTIVE
 
 # Artefactos en SCRUM:
  En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
- 
+
+ 1. Pila del Producto (Product Backlog)
+Es una lista ordenada, que contiene todo lo que podría ser necesario en el producto y es la única fuente de requisitos para hacer cambios en el producto.
+
+El único responsable del Product Backlog es el Product Owner. Es el encargado de ordenar y añadir ítems.
+
+
     3. Incremento (Increment) 
 
 
 # Roles de SCRUM
+
+
+
+
+
+
+
