@@ -13,6 +13,9 @@ Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Mó
     3. Spring Review Meeting
     
     4. Sprint Retrospective Meeting
+
+    5. Sprint Grooming o Refinement
+      Sirve para, dentro del Sprint, afinar y aclarar ciertas historias de usuario que pudieron quedar pendientes durante el Sprint Planning.
     
 SPRINT RETROSPECTIVE
   El sprint retrospective meeting (retrospectiva) es el último evento en un Sprint en Scrum. Es una oportunidad para el equipo de inspeccionarse a sí mismo, y crear un  plan de mejora que se pondrá en marcha inmediatamente, en el siguiente Sprint.
