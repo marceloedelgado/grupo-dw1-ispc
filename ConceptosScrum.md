@@ -38,7 +38,8 @@ SPRINT RETROSPECTIVE
 Es una lista ordenada, que contiene todo lo que podría ser necesario en el producto y es la única fuente de requisitos para hacer cambios en el producto.
 
 El único responsable del Product Backlog es el Product Owner. Es el encargado de ordenar y añadir ítems.
-
+ 
+ 2. Pila del Sprint (Sprint Backlog)
 
     3. Incremento (Increment) 
 
