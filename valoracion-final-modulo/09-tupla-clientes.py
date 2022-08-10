@@ -4,8 +4,3 @@ def valorMaximoGastada(historial5):
     max_value = max(historial5)
     print('Maximum value:', max_value)
     return max_value
-
-print('Comienzo del programa que ejecuta la funcion')
-print('funcion')
-valorMaximoGastada(historial5)
-print('fin de la funcion')
