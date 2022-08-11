@@ -5,3 +5,6 @@ while i < len(dueno2):
     if i != 0 and i != 2:
         print(dueno2[i])
     i += 1
+
+print()
+
