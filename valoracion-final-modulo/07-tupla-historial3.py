@@ -9,3 +9,4 @@ def calculador3(z):
   if prom > 4500:
     print("Se ha excedido del gasto promedio para su mascota")    
 calculador3(historial3)
+print()
