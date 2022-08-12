@@ -23,8 +23,8 @@ ID_Historial int(100) PRIMARY KEY  NOT NULL auto_increment,
 Fecha DATETIME NOT NULL,
 Descripcion varchar(200) NULL, 
 Monto DOUBLE NOT NULL,
-Perro int,
-constraint fk_Perro FOREIGN KEY(Perro) REFERENCES Perro(ID_Perro) 
+ID_Perro int,
+constraint fk_ID_Perro FOREIGN KEY(ID_Perro) REFERENCES Perro(ID_Perro) 
 );
 
 /*Punto 2. Agregar nuevo animal y dueño asociado*/
