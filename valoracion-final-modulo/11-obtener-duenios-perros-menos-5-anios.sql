@@ -49,6 +49,7 @@ insert into Historial(ID_Historial,Perro_nro,Fecha, Descripcion, Monto) values (
 insert into Historial(ID_Historial,Perro_nro,Fecha, Descripcion, Monto) values (5,5,"2018-01-07", "Radiografria",8000);
 insert into Historial(ID_Historial,Perro_nro,Fecha, Descripcion, Monto) values (6,6,"2019-05-27", "Otitis",3500);
 insert into Historial(ID_Historial,Perro_nro,Fecha, Descripcion, Monto) values (7,7,"2020-03-19", "Control",2000);
+insert into Historial(ID_Historial,Perro_nro,Fecha, Descripcion, Monto) values (8,8,"2019-03-05", "Control",2200);
                    
 SELECT d.DNI, d.Nombre, d.Apellido, d.Telefono, d.Direccion 
 FROM peluqueria_canina.duenio as d ,peluqueria_canina.perro as p, peluqueria_canina.historial as h 
