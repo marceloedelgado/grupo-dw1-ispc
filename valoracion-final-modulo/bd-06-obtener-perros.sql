@@ -1,0 +1,1 @@
+SELECT DISTINCT perro.Nombre FROM perro JOIN historial ON perro.ID_Perro=historial.Perro AND YEAR(historial.Fecha)=2022;
