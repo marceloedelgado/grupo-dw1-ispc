@@ -7,4 +7,4 @@ def atencionFrida(facturas):
             contador += 1
     return contador
 
-gastos_superiores = print("Cantidad de gastos superiores a 5000:",atencionFrida(historial2))
+print("Cantidad de gastos superiores a 5000:",atencionFrida(historial2))
